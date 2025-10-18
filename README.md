@@ -51,3 +51,25 @@
       -     'key1': 'definition',
       -     'key2': 'definition2'
       -   }
+
+10/17/2025
+ Today I learned about Operators, Control Flow, and Functions.
+ The first operator I learned are Arithmatic (-, +, %, //, etc), which can be used with both numbers and strings.
+  Using + or * on numbers will perform math. Using these on strings will concatenate or repeat, respectively. 
+ I also learned about Comparison, Logical, and Membership operators. ==, <, >; and, or, not; in, not in.
+
+ Control Flow refers to If/Else statements as well as For and While Loops. 
+  When using While Loops, you need to be careful to not get stuck in an endless loop. Typically these are used when conditions are changing or the loop is affected by code within the loop. 
+
+ Finally, Functions. 
+  Defining a function is releatively easy and can be defined for many things. 
+   An example is 
+     def multiply_by_3(val):
+      return val * 3
+   You can give multiple arguments by separating with a comma. If there is a defult value for an argument it can also be defined.
+    A good example of this was in the Kaggle exercise where 3 friends pool their candy and agree to smash any remainders if not split evenly. You can use arguments to define the total_candy but also the total_friends should it not always be 3...but can default to 3.
+     def to_smash(total_candies, total_friends=3):
+      return total_candies % total_friends
+    In this example, if you run to_smash(91) it would return the number of "extra" candies after deviding equally amongst 3 people. 
+    If you run to_smash(91,4), it changes the number of friends to 4 and would now return the number of "extra" candies after diving equally amongst 4 people.
+In additional to my learnings/videos, I completed the Kaggle exercise in the Python course for both functions and the intro Hello,Python which covered some basic syntax usage.
