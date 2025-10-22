@@ -73,3 +73,11 @@
     In this example, if you run to_smash(91) it would return the number of "extra" candies after deviding equally amongst 3 people. 
     If you run to_smash(91,4), it changes the number of friends to 4 and would now return the number of "extra" candies after diving equally amongst 4 people.
 In additional to my learnings/videos, I completed the Kaggle exercise in the Python course for both functions and the intro Hello,Python which covered some basic syntax usage.
+
+10/22/2025
+Today's entry looks a bit different - it's more of "where have I been" than "what I learned today"
+As I continued working through the Python Essentials LL course I became increasingly frustrated with the built-in coderPad challenges and the level of difficulty of said challenges. There were many concepts that well may have been talked about in the LL course, it was by no means enough to know how and where to correctly apply and even combine multiple of these concepts to solve a problem. Thus is the issue I see with this course so far. 
+
+Today, I decided to pivot and take a stab at the course "Python for non coders" which covers many of the same concepts but in a more basic manner. I also am appreciating how this course has you pause and apply each basic concept on your own at the end of a video and then hit play and cover it together to ensure you have some understanding. While the first coderPad challenge was yet again a bit challenging, I was able to solve it in my own way...and then eventually get it to pass with a little correction caught in the solution video. I think the key here is that while I'm eager to learn and be able to apply Python knowledge, I also need to be able to understand what I'm learning and learn at a pace that makes sense for me so I don't just become frustrated and give up like I have so many times in the past. 
+
+So, today, I guess I learned what I need to be able to stay consistent on this learning journey and it's just to slow down, take a step back so I can continue taking steps forward. And so...the journey continues :) Stay tuned.
