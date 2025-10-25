@@ -81,3 +81,9 @@ As I continued working through the Python Essentials LL course I became increasi
 Today, I decided to pivot and take a stab at the course "Python for non coders" which covers many of the same concepts but in a more basic manner. I also am appreciating how this course has you pause and apply each basic concept on your own at the end of a video and then hit play and cover it together to ensure you have some understanding. While the first coderPad challenge was yet again a bit challenging, I was able to solve it in my own way...and then eventually get it to pass with a little correction caught in the solution video. I think the key here is that while I'm eager to learn and be able to apply Python knowledge, I also need to be able to understand what I'm learning and learn at a pace that makes sense for me so I don't just become frustrated and give up like I have so many times in the past. 
 
 So, today, I guess I learned what I need to be able to stay consistent on this learning journey and it's just to slow down, take a step back so I can continue taking steps forward. And so...the journey continues :) Stay tuned.
+
+10/25/2025
+The last few days have been spent reviewing basic concepts in the new LL course I started. I've already completed a few very small projects through the course to check that I'm understanding the concepts and provide practice. I completed the Magic 8 Ball, Fortune Cookie, and Word Counter along with getting the challenge correct today to find even numbers in a list and get the sum of those numbers. It took quite a few tries to get that, but I didn't give up, kept thinking it through and trying again. 
+
+I also found a new site: pythonpractice.org that has some basic practice exercises to further solidify the concepts I'm learning. 
+Today I completed the first 2 exercises: Character Input & Odd or Even.
