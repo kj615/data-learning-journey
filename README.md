@@ -87,3 +87,10 @@ The last few days have been spent reviewing basic concepts in the new LL course 
 
 I also found a new site: pythonpractice.org that has some basic practice exercises to further solidify the concepts I'm learning. 
 Today I completed the first 2 exercises: Character Input & Odd or Even.
+
+10/26/2025
+Today I worked through vides regarding functions. 
+This solidified my understanding of defining functions with "return", calling functions, and passing in parameters. 
+I also studied the use of inputs and using those inputs.
+I completed 1 python exercise "ListLessThanTen"
+I also completed the chapter coderpad challenge to create a function in the LL video successfully in my first attempt!!

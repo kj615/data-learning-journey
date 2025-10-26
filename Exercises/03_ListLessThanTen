@@ -1,0 +1,37 @@
+'''
+Print the elements of a provided list that are less than 5.
+
+Extras:
+1. Instead of printing elements one by one, make a new list of the elements that are less than 5
+2. Write this in one line of Python code.
+3. Ask the user for a number and return a list that contains only elements from the original list (a) that are smaller than the provided number.
+'''
+
+
+a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+
+for num in a:
+    if num < 5:
+        print(num)
+
+
+new_list = []
+
+for num in a:
+    if num < 5:
+        new_list.append(num)
+print(new_list)
+
+#Not sure how to make this one line of code
+#Note from website indicated that NONE of the submitted responses inclulded the solution in one line indicating that I'm not the only person that doesn't know this at this stage of learning :)
+#One line solution provided:
+print([num for num in a if num < 5])
+
+
+user_num = int(input("Provide number: "))
+user_list = []
+
+for num in a:
+    if num < user_num:
+        user_list.append(num)
+print(user_list)
