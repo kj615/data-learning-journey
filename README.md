@@ -94,3 +94,8 @@ This solidified my understanding of defining functions with "return", calling fu
 I also studied the use of inputs and using those inputs.
 I completed 1 python exercise "ListLessThanTen"
 I also completed the chapter coderpad challenge to create a function in the LL video successfully in my first attempt!!
+
+10/27/2025
+Today I only had 1 hour so spent the time practicing on two exercises from pythonpractice.org:
+Divisors - successfully figured this out other than the fact that a number is divisible by itself so had to add 1 to the prompted number so it would be included in the list. I chalk this up to more of a math knowledge issue than code writing issue, but either way it was a minor error.
+List Overlap Solutions - I learned one way to generate random lists of numbers from others' solutions. Other than that I got the solution on my own
