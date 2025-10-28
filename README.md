@@ -99,3 +99,8 @@ I also completed the chapter coderpad challenge to create a function in the LL v
 Today I only had 1 hour so spent the time practicing on two exercises from pythonpractice.org:
 Divisors - successfully figured this out other than the fact that a number is divisible by itself so had to add 1 to the prompted number so it would be included in the list. I chalk this up to more of a math knowledge issue than code writing issue, but either way it was a minor error.
 List Overlap Solutions - I learned one way to generate random lists of numbers from others' solutions. Other than that I got the solution on my own
+
+10/28/2025
+Today I began the second course: Intermediate Python for Non-Programmers. 
+The first video walked through installing Python, some command prompt info and Visual Studio Code basics. 
+Once we got through that, the first Python learning we're doing is Classes. Although I found the first course mostly easy to grasp and follow, I'm skeptical but excited for this second course and the more in-depth topics.
