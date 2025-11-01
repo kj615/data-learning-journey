@@ -104,3 +104,13 @@ List Overlap Solutions - I learned one way to generate random lists of numbers f
 Today I began the second course: Intermediate Python for Non-Programmers. 
 The first video walked through installing Python, some command prompt info and Visual Studio Code basics. 
 Once we got through that, the first Python learning we're doing is Classes. Although I found the first course mostly easy to grasp and follow, I'm skeptical but excited for this second course and the more in-depth topics.
+
+10/31/2025
+It's been a few days...
+  10/29 got stuck late at work
+  10/30 worked late, out to dinner, prep for vacation
+Today I decided to get back at a little practice time. I've decided to delay any additional learning until after vacation as the topics are getting more in-depth. 
+Practice today was 07_ListComprehension. 
+  I successfully solved the problem in multiple lines of code and with some assistance solved in one line as well. It's still taking some time to learn one-line coding, but starting to understand the basics.
+I tried to start 08_RockPaperScissors but quickly realized I was in over my head. 
+  I found this game is also in one of the books I have so plan to continue to read and learn through studying the existing code while rewriting it.
